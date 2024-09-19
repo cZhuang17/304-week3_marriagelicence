@@ -1,8 +1,8 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "304_week3"
+subtitle: "Marriage_licence"
 author: 
-  - Rohan Alexander
+  - Chiyue Zhuang
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
